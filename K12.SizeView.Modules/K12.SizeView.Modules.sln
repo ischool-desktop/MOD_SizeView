@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K12.SizeView.Modules", "K12.SizeView.Modules.csproj", "{20D44C63-FCE3-4ADD-8EC7-862671F78C63}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfserver.ischool.com.tw:8080/tfs/tfs2008
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = K12.SizeView.Modules.csproj
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20D44C63-FCE3-4ADD-8EC7-862671F78C63}.Debug|x86.ActiveCfg = Debug|x86
+		{20D44C63-FCE3-4ADD-8EC7-862671F78C63}.Debug|x86.Build.0 = Debug|x86
+		{20D44C63-FCE3-4ADD-8EC7-862671F78C63}.Release|x86.ActiveCfg = Release|x86
+		{20D44C63-FCE3-4ADD-8EC7-862671F78C63}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
