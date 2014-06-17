@@ -182,7 +182,7 @@ namespace K12.SizeView.Modules
             newrow.CreateCells(dataGridViewX1);
 
             string name = "" + row[0];
-            long size = int.Parse("" + row["pg_total_relation_size"]);
+            long size = long.Parse("" + row["pg_total_relation_size"]);
 
             TotleSize += size;
 
